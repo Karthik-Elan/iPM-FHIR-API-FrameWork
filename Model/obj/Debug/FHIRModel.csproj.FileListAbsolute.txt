@@ -1,0 +1,7 @@
+C:\Users\kelangovan2\Documents\Visual Studio 2015\Projects\iPMApiFHIRServer-Wrapper\Model\bin\Debug\Model.dll
+C:\Users\kelangovan2\Documents\Visual Studio 2015\Projects\iPMApiFHIRServer-Wrapper\Model\bin\Debug\Model.pdb
+C:\Users\kelangovan2\Documents\Visual Studio 2015\Projects\iPMApiFHIRServer-Wrapper\Model\bin\Debug\iPMServiceClient.exe
+C:\Users\kelangovan2\Documents\Visual Studio 2015\Projects\iPMApiFHIRServer-Wrapper\Model\bin\Debug\iPMServiceClient.pdb
+C:\Users\kelangovan2\Documents\Visual Studio 2015\Projects\iPMApiFHIRServer-Wrapper\Model\obj\Debug\FHIRModel.csprojResolveAssemblyReference.cache
+C:\Users\kelangovan2\Documents\Visual Studio 2015\Projects\iPMApiFHIRServer-Wrapper\Model\obj\Debug\Model.dll
+C:\Users\kelangovan2\Documents\Visual Studio 2015\Projects\iPMApiFHIRServer-Wrapper\Model\obj\Debug\Model.pdb
